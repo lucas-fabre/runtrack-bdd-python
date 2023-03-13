@@ -1,0 +1,1 @@
+select count(id) from etudiants where age < 18
